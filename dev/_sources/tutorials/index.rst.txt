@@ -94,6 +94,27 @@ This file is a placeholder and not included in the docs.
    :hidden:
 
    /tutorials/plot
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="It is often useful to add annotations to a map plot. This is handled by pygmt.Figure.text. ">
+
+.. only:: html
+
+ .. figure:: /tutorials/images/thumb/sphx_glr_text_thumb.png
+     :alt: Plotting text
+
+     :ref:`sphx_glr_tutorials_text.py`
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /tutorials/text
 .. raw:: html
 
     <div class="sphx-glr-clear"></div>
